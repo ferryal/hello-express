@@ -1,0 +1,22 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "Assignment hello-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ferryal/hello-express.git"
+  },
+  "author": "ferryal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferryal/hello-express/issues"
+  },
+  "homepage": "https://github.com/ferryal/hello-express#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
